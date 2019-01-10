@@ -1,0 +1,9 @@
+github
+<<<<<<< HEAD
+11111
+22222
+=======
+git add
+git commit -m
+git push origin master 
+>>>>>>> ea6a9afd1b1213e54cbffa0f0e4250d07a16a012
